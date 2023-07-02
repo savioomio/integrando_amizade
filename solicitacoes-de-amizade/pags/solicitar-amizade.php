@@ -1,0 +1,1 @@
+<?php send_solicitation($conn, $_GET['id']);?>

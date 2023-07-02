@@ -1,0 +1,1 @@
+<?php recusar_solicitacao($conn, $_GET['id']);?>
